@@ -1,0 +1,7 @@
+15:34:58 **** Clean-only build of configuration Debug for project WIZNET_2 ****
+make -j8 clean 
+rm -rf *
+ 
+
+15:35:00 Build Finished. 0 errors, 0 warnings. (took 1s.951ms)
+

@@ -1,0 +1,8 @@
+sht21.c:6:6:sht21_start_RH_HM	24	static
+sht21.c:14:6:sht21_start_T_HM	24	static
+sht21.c:22:6:sht21_read_RH_HM	32	static
+sht21.c:40:6:sht21_read_T_HM	32	static
+sht21.c:60:6:sht21_cal_temp	24	static
+sht21.c:65:6:sht21_cal_hum	24	static
+sht21.c:69:6:Temp_Measure	16	static
+sht21.c:77:6:Hum_Measure	16	static

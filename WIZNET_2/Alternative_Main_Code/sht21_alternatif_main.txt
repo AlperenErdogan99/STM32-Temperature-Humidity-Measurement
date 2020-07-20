@@ -1,0 +1,16 @@
+		/*
+		 * Alternative Temperature Measurement concept
+		 */
+		 
+		 // sht21_start_T_HM();  				//hold master mode Temperature measurement start
+		 // sht21_read_T_HM(&sht21_1);   		//read  raw temperature data
+		 // sht21_cal_temp(&sht21_1); 			//calculate temperature to celcius form
+		 
+		 /*
+		 * Alternative Humidity Measurement concept
+		 */
+		 
+		 //	sht21_start_RH_HM(); 				//hold master mode humidity measurement start
+		 // sht21_read_RH_HM(&sht21_1);  		//read raw humidity data
+		 // sht21_cal_hum(&sht21_1);			//calculate humidity in percent
+		

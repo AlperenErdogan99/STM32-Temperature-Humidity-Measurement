@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="FlashInit"/>
+		<list key="findhistory">
+			<item value="FlashInit"/>
+			<item value="socket"/>
+			<item value="con"/>
+			<item value="socket_cnt"/>
+			<item value="socket_num"/>
+			<item value="rbuf"/>
+			<item value="AddressingMode"/>
+			<item value="Timing"/>
+			<item value="disconnect"/>
+			<item value="SPI_HandleTypeDef"/>
+			<item value="I2C_HandleTypeDef"/>
+			<item value="buf"/>
+			<item value="loopback_tcpc"/>
+			<item value="connect"/>
+			<item value="reset"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1552"/>
+		<item key="DIALOG_Y_ORIGIN" value="261"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

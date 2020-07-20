@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;WIZNET_2&apos; to &apos;YENI_WIZNET&apos;" description="Rename resource &apos;WIZNET_2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/WIZNET_2" name="YENI_WIZNET" stamp="1588005921808" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;YENI_WIZNET&apos; to &apos;WIZNET_2&apos;" description="Rename resource &apos;YENI_WIZNET&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/YENI_WIZNET" name="WIZNET_2" stamp="1588006767567" updateReferences="true"/>
+</session>

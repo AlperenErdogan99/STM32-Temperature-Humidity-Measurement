@@ -1,0 +1,15 @@
+FlashDriver.c:15:15:FlashInit	24	static
+FlashDriver.c:52:15:FlashIsReady	16	static
+FlashDriver.c:62:15:WREN	16	static
+FlashDriver.c:70:15:WriteCommand	32	static
+FlashDriver.c:85:15:ReadStatusRegister	24	static
+FlashDriver.c:102:15:ReadSecurityRegister	24	static
+FlashDriver.c:119:15:SectorErase	32	static
+FlashDriver.c:166:15:PageProgram	40	static
+FlashDriver.c:212:15:CheckPage	24	static
+FlashDriver.c:229:9:ReadFlash	24	static
+FlashDriver.c:261:9:WriteFlash	24	static
+FlashDriver.c:296:6:NextPage	16	static
+FlashDriver.c:316:6:Accumulation_Init	16	static
+FlashDriver.c:320:6:Accumulation	40	static
+FlashDriver.c:340:6:Send_Flash	16	static

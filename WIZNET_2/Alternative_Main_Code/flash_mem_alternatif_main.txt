@@ -1,0 +1,8 @@
+		/*
+		 * Accumulation  and send data to memory
+		 */
+		
+		// Accumulation(&sht21_1, &Mem_Control); //biriktirme
+		// WriteFlash(&Mem_Control, &sht21_1);
+		// ReadFlash(&Mem_Control, &sht21_1);
+		// NextPage(&Mem_Control, &sht21_1);

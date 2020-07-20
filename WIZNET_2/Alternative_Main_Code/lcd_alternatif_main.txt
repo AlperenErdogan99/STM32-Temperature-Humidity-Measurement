@@ -1,0 +1,11 @@
+		/*
+		 *alternative send data  to lcd main code 
+		 */
+
+		//sprintf(sht21_1.data_T, "Sicaklik :%.2lf\n", sht21_1.son_sicaklik);
+		//HY2004A8_Puts(1, 0, sht21_1.data_T);				//send data to LCD
+		//HAL_Delay(500);
+
+		//sprintf(sht21_1.data_H, "Nem :%% %.2lf\n ", sht21_1.son_nem);
+		//HY2004A8_Puts(1, 1, sht21_1.data_H);				//send data to LCD
+		//HAL_Delay(500);

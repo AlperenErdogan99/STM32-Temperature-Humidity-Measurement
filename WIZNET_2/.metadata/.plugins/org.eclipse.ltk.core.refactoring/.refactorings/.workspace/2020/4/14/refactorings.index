@@ -1,0 +1,5 @@
+1586007248074	Delete resource 'WIZNET_2/lcd20x4_driver'
+1586007362434	Delete resource 'WIZNET_2/lcd20x4_driver'
+1586008206542	Delete resource 'WIZNET_2/Core/Inc/wiznet_spi_config'
+1586010387183	Delete resource 'WIZNET_2/Core/Src/wiznet_spi_config.c'
+1586010393684	Delete resource 'WIZNET_2/Core/Inc/wiznet_spi_config.h'

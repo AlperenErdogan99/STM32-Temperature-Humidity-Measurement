@@ -1,0 +1,8 @@
+w5500_control.c:8:6:cs_sel	8	static
+w5500_control.c:12:6:cs_desel	8	static
+w5500_control.c:16:9:spi_rb	8	static
+w5500_control.c:21:6:spi_wb	16	static
+w5500_control.c:25:6:timeout_config	16	static
+w5500_control.c:33:6:client_config	32	static
+w5500_control.c:45:6:Close_Server	16	static
+w5500_control.c:58:6:Connect_Server	24	static
